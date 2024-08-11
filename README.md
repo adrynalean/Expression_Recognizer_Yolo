@@ -1,4 +1,4 @@
-# Expression Classifier
+# MoodWave
 
 ![MoodWave]([https://i.pinimg.com/originals/bc/49/6b/bc496b9be3b3ef214da88ead21dc2e8a.gif](https://cdn.dribbble.com/users/38593/screenshots/2993662/emoji-all-dribbb.gif))
 
