@@ -135,10 +135,3 @@ To use this project, follow these steps:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This `README.md` provides a comprehensive overview of your project, detailing setup, data preparation, model architecture, training process, and more. Adjust any sections as needed based on your specific requirements.
