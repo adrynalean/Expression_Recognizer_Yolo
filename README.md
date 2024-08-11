@@ -1,6 +1,6 @@
 # MoodWave
 
-![MoodWave]([https://i.pinimg.com/originals/bc/49/6b/bc496b9be3b3ef214da88ead21dc2e8a.gif](https://cdn.dribbble.com/users/38593/screenshots/2993662/emoji-all-dribbb.gif))
+![MoodWave](https://cdn.dribbble.com/users/38593/screenshots/2993662/emoji-all-dribbb.gif)
 
 This project is a deep learning-based expression classifier using PyTorch. The classifier is designed to recognize facial expressions from images and is trained on a dataset that contains several classes of emotions.
 
